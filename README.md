@@ -1,6 +1,6 @@
-# Discord Bot for Image and Video Processing
+# Goremu AI for Image and Video Processing
 
-This Discord bot allows users to upload images and generate videos based on text input. It utilizes various libraries and APIs to handle image processing, text-to-speech conversion, and video generation.
+This allows users to upload images and generate videos based on text input. It utilizes various libraries and APIs to handle image processing, text-to-speech conversion, and video generation.
 
 ## Features
 
